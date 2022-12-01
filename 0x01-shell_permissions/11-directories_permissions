@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755 ls -R
+chmod 755 ls 
