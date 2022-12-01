@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r 755 tmp
+chmod 755 d*/tmp
