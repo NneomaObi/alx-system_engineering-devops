@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type f -R -a -empty | ls -l 
+find ./ -type f -name -empty | ls -l | xargs -n 1 basename 
